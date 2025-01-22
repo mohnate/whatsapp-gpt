@@ -12,7 +12,7 @@ The integration will allow users to interact with ChatGPT via text messages on W
 Clone this project with the command:
 
 ```bash
-git clone https://github.com/gungho0619/whatsapp-gpt.git
+git clone https://github.com/mohnate/whatsapp-gpt.git
 ```
 
 Go to the .env.example file and rename it to .env, and change the values ​​necessary for it to work.
